@@ -1,1 +1,3 @@
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+# 🚀 Curso Introducción a Dart
+
+Repositorio de notas de lo aprendido en Dart
